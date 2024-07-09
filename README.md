@@ -1,2 +1,2 @@
-# desmos.hosted-by-discourse.com
+# status.desmos.com
 ## Subdomain Takeover by RPG
